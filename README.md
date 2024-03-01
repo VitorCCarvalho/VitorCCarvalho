@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently aiming to work on .NET Backend Development<br>👯 I’m looking to collaborate on .NET, APIs and SQL Database Projects<br>🤝 I’m looking for help with .NET, Entity Framework, SQL and Angular<br>🌱 I’m currently learning .NET and Angular<br>💬 Ask me about everything<br>
+🔭 I’m currently aiming to work on .NET Web Development<br>👯 I’m looking to collaborate on .NET, APIs and SQL Database Projects<br>🤝 I’m looking for help with .NET, Entity Framework, SQL and Angular<br>🌱 I’m currently learning .NET and Angular<br>💬 Ask me about everything<br>
 
 
 ## 🌐 Socials:
